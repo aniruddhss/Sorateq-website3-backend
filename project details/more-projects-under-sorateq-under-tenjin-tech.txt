@@ -1,0 +1,262 @@
+kINSHO-ai
+
+Core Platform
+AI-driven CRM system
+Manage customer interactions, sales tracking, and workflows in one place
+AI automation engine
+Automates repetitive business processes and operations
+Lead capture & conversion tools
+Designed to attract, track, and convert high-value leads
+Marketing & Growth Features
+SEO + AEO (AI Engine Optimization)
+Optimizes visibility not just on Google but also in AI-generated results
+Website design services
+Helps build or optimize business websites
+Free SEO audit + growth plan
+Identifies gaps and gives actionable growth strategy
+Social & Omni-channel Tools
+Omni-channel social media management
+Connects multiple platforms like Facebook, Instagram, LinkedIn, etc.
+Reputation & visibility tools
+Helps businesses build online presence and credibility
+Social planner + reputation suite
+Combines content planning with brand monitoring
+Business Operations
+Streamlined operations
+Centralized system to manage workflows efficiently
+Data-driven insights
+Provides analytics to guide decisions
+“AI employee” concept
+Acts like a virtual assistant for business execution
+Positioning & Strategy
+Positioning Suite
+Helps businesses gain visibility and “own space” online quickly
+Daily visibility momentum
+Focus on consistent brand presence across channels
+Growth-focused plans (Foundation, Growth, Enterprise)
+Tiered offerings for scaling businesses
+Commercial / Product Model
+Subscription-based pricing (starting tier mentioned)
+No long-term contracts
+Quick onboarding (instant access positioning)
+Positioning Summary (what it actually is)
+AI-powered CRM + marketing + automation stack
+Focused on visibility, lead generation, and growth
+Positioned as a “business growth engine” rather than just a tool
+
+
+
+Sorateq-Ed
+Core Positioning
+Next-gen ERP + AI Learning Platform
+Built specifically for educational institutions
+Focus: digitization + automation + student outcomes (jobs/placements)
+Core ERP (Campus Management)
+All-in-one campus system
+Admissions, academics, attendance, fees in one platform
+Automated fee management
+Fee collection, tracking, reminders, digital receipts, payment integration
+Attendance & academic tracking
+Student lifecycle management
+Multi-level grievance system
+Automated escalation (Faculty → HOD → Principal)
+Digital campus operations
+Replace paper processes with centralized workflows
+AI Learning Platform (Key Differentiator)
+AI Learning Pipeline (end-to-end student journey)
+From course → skills → job
+Industry-aligned curriculum
+AI enriches syllabus with live market trends
+Skill tracking
+Tracks student progress and learning status
+AI project generator
+Generates real-world, practical assignments
+Industry-ready projects
+Replaces theoretical work with practical challenges
+AI assessments
+Auto-generate quizzes from course material
+Career & Placement System
+Automated portfolio builder
+Creates resumes based on student work and achievements
+AI placement cell
+Matches students with internships/jobs automatically
+Opportunity discovery
+Scans and surfaces jobs, hackathons, grants, programs
+Placement tracking
+Monitor hiring progress and outcomes
+Analytics & Insights
+Real-time analytics
+Attendance, performance, financial health
+Growth & operational metrics
+Student activity, revenue streams, efficiency tracking
+Additional Modules
+Digital library
+Resource access, borrowing, inventory tracking
+Institutional analytics dashboard
+Centralized decision-making insights
+Efficiency & Impact Claims
+Up to 60% reduction in admin work
+3x faster processing
+Cost reduction via automation
+Eliminates manual / paper-based workflows
+Product Bundle (what’s included)
+AI-powered LMS
+Student portfolio builder
+Automated assessment engine
+Complete campus ERP
+Fee & finance manager
+E-library
+Institutional analytics
+Grievance system
+Pricing Model
+₹30/user/month
+30-day free trial
+No credit card required
+Clean Summary (what it actually is)
+Edu ERP + AI LMS + Placement Engine combined
+Strong focus on:
+automation (admin side)
+outcomes (jobs, skills, projects)
+Not just management software
+→ positioned as a “student-to-job pipeline system” for institutions
+
+shuuncar.japox.jp
+
+
+Core Positioning
+Vehicle data platform
+Focused on VIN-based vehicle information lookup and management
+Designed for businesses handling vehicle data and verification
+Core Features
+VIN search
+Enter a vehicle identification number to instantly retrieve details
+Comprehensive vehicle database
+Includes specifications, history, and maintenance data
+Vehicle data management
+Centralized system for storing and accessing vehicle information
+Technical Capabilities
+REST API
+Enables integration with external systems and workflows
+High-speed response
+Optimized infrastructure for fast data retrieval
+Usage tracking
+Monitor API usage and optimize cost/resource allocation
+Security
+Secure authentication
+Enterprise-level data protection
+Plans & Access
+One-time plan
+Single VIN search
+Basic vehicle info
+Limited-time discounted pricing
+Starter Plan
+Up to 100 VIN searches/month
+Basic vehicle details
+No API access
+Email support
+Professional Plan
+Unlimited VIN searches
+Detailed vehicle data (specs, history, extended info)
+API access
+Analytics + search history export
+Enterprise Plan
+Custom solution
+Dedicated API endpoints
+Full data access
+Phone support + dedicated manager
+Value Proposition
+Fast vehicle verification and lookup
+Centralized data system for operations
+Scalable from simple checks to enterprise integration
+Simple Summary
+Not a general automotive app
+It’s a VIN-based vehicle data infrastructure tool
+Core use cases:
+vehicle verification
+internal business workflows
+data-driven automotive operations
+
+LEVELER
+
+Core Positioning
+AI-powered learning platform
+Focused on skill development + career outcomes
+Combines courses, projects, and job placement support
+Learning Experience
+AI-generated courses
+Continuously updated with latest industry trends
+Industry-aligned curriculum
+Designed to match real-world job requirements
+Skill tracking
+Monitors learner progress and performance
+Personalized learning path
+AI recommends next steps based on activity
+Practical Learning
+AI-generated practical projects
+Real-world tasks instead of theoretical learning
+Hands-on skill building
+Focus on job-ready capabilities
+Career Support
+Automatic portfolio / resume generation
+Builds professional CV from completed work
+AI job placement agent
+Matches users with jobs, internships, and opportunities
+Opportunity discovery
+Finds hackathons, grants, and programs
+Job tracking
+Tracks application and placement progress
+Productivity & Value
+All-in-one subscription
+Access to multiple domains (AI, business, design, etc.)
+Cost efficiency
+Reduces need for multiple paid courses
+Higher learning efficiency
+Claims improved knowledge utilization
+Additional Features
+24/7 AI mentor
+Offline learning mode
+Digital certificates
+Latest industry reports access
+Pricing
+Subscription model (~¥833/month)
+Discount on annual plans
+Cancel anytime
+Key Value Proposition
+End-to-end system:
+Learn → Practice → Build Portfolio → Get Hired
+Focuses on:
+practical skills
+AI-driven personalization
+direct career outcomes
+Simple Summary
+Not just an LMS
+It’s a career-focused AI learning + placement platform
+Core differentiation: automated learning + project generation + job matching in one system
+
+POLICY One
+y write-up:
+
+---
+
+**PolicyOne — AI-Powered Policy Compliance Platform**
+
+A full-stack SaaS application that automates compliance auditing for corporate information security regulations (ISO 27001 / JIS Q 15001). The system ingests DOCX policy documents, splits them into structured sections, and runs LLM-based analysis to detect gaps, conflicts, and coverage issues across regulation sets — then generates a merged, corrected output document.
+
+**Key Features:**
+- **Standard Check** — maps each ISO/JIS requirement clause against a company's internal policies using hybrid semantic search; classifies coverage as sufficient / partial / insufficient
+- **Regulation Cross-Check** — detects discrepancies between two internal regulations section-by-section (covered / conflict / sub-only / needs-review) with confidence scoring
+- **Regulation Merge** — LLM-driven merge of a sub-regulation into a main regulation, producing a final DOCX and an annotated suggestion document
+- **Real-time Streaming** — SSE-based live progress during analysis; results stream in as LLM judgments complete
+- **Export** — CSV and DOCX export of all results
+
+**Tech Stack:**
+
+| Layer | Technologies |
+|---|---|
+| Frontend | Next.js 14 (App Router), TypeScript, Tailwind CSS, SWR, Recharts |
+| Backend | Python, FastAPI, SQLAlchemy (async), Alembic |
+| AI/ML | OpenAI (embeddings + LLM), Anthropic Claude, TF-IDF, hybrid vector retrieval |
+| Database | PostgreSQL |
+| Document Processing | python-docx, Markdown-based section splitting |
+| Auth | JWT (HS256) |
+| Infra | Background task queue, SSE streaming, async concurrency with semaphore control |
